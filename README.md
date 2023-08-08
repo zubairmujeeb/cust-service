@@ -32,7 +32,7 @@ This repository contains a microservice built using Spring Boot that handles cus
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/customer-account-microservice.git
+   git clone https://github.com/zubairmujeeb/cust-service.git
 
 
 1- cd customer-account-microservice
